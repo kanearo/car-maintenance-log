@@ -1,5 +1,6 @@
 # Car Maintenance Log (Assignment 2 Prototype)
 
+Access the actual pages site I put up to test implementation with the following link: https://kanearo.github.io/car-maintenance-log/
 A small browser prototype that implements one feature from my Assignment 1 project: **Record a Maintenance Service**. I can pick a vehicle, enter the service details, save the record, and see it again after refreshing the page. Records are stored in the browser with `localStorage`, so there is no server or database to run.
 
 This is the lightweight prototype of the single-page app planned in Assignment 1. Assignment 1 plans the full app in TypeScript and React; for this single-feature prototype I used plain HTML, CSS, and JavaScript so it runs by just opening a file, with no build step. The same form maps directly to a React component later.
